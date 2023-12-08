@@ -1,6 +1,6 @@
 ## Gambaran Umum
 
-Kode ini berfungsi untuk membuat task-timer berbasis website dilengkapi dengan audio ketika timer yang ditetapkan telah habis.
+Kode ini berfungsi untuk membuat task-timer berbasis website dilengkapi dengan audio.
 
 ## Bahasa Pemrograman
 
